@@ -8,7 +8,7 @@ In case you want to learn more about me, check out my (*[website](https://beserr
 
 - I studied software development at HS as a technical course (ETEC) 👨‍💻
 
-- Now I'm at POLI-USP (Universidade de São Paulo) learning more about Hardware and Low-Level in a Eletrical Engineering graduation!
+- Now I'm at POLI-USP (Universidade de São Paulo) learning more about Hardware and Low-Level in an Eletrical Engineering graduation!
 
 ## Contact Info
 
