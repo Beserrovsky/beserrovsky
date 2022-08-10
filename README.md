@@ -2,7 +2,7 @@
 
 Welcome to my github profile, fell free to explore it in any way you want 🐱‍🏍
 
-In case you want to learn more about me, check out my (*[website](https://beserrovsky.tk) ⚠ Currently Offline ⚠*) and it's [source code](https://github.com/Beserrovsky/website)
+In case you want to learn more about me, check out my (*[website](https://beserrovsky.tk) ⚠ On Maintenance ⚠*) and it's [source code](https://github.com/Beserrovsky/website)
 
 ## Education
 
